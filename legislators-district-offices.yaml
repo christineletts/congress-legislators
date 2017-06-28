@@ -19080,6 +19080,18 @@
     latitude: 41.8784454
     longitude: -87.63
     id: D000622-chicago
+  - address: 8 South Old State Capitol Plaza
+    building: ''
+    city: Springfield
+    fax: ''
+    hours: ''
+    phone: 217-528-6124
+    state: IL
+    suite: ''
+    zip: '62701'
+    latitude: 39.800468
+    longitude: -89.6509028
+    id: D000622-springfield
 - id:
     bioguide: H001076
     govtrack: 412680
